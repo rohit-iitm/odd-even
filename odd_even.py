@@ -6,4 +6,4 @@ n = placeholder_dividend.number_input('Enter your number')
 if float(n)%2 == 0:
 	st.write('EVEN Number')
   else:
-    st.write('ODD Number'
+    st.write('ODD Number')
